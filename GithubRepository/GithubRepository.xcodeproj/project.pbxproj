@@ -15,6 +15,7 @@
 		E01651102923759300BFCC25 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E016510E2923759300BFCC25 /* LaunchScreen.storyboard */; };
 		E085FFBA2924B8A000FD7969 /* RepositoryListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E085FFB92924B8A000FD7969 /* RepositoryListViewController.swift */; };
 		E085FFBC2924B8F300FD7969 /* RepositoryListCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E085FFBB2924B8F300FD7969 /* RepositoryListCell.swift */; };
+		E085FFBE2924BE2100FD7969 /* Repository.swift in Sources */ = {isa = PBXBuildFile; fileRef = E085FFBD2924BE2100FD7969 /* Repository.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		E01651112923759300BFCC25 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E085FFB92924B8A000FD7969 /* RepositoryListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepositoryListViewController.swift; sourceTree = "<group>"; };
 		E085FFBB2924B8F300FD7969 /* RepositoryListCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepositoryListCell.swift; sourceTree = "<group>"; };
+		E085FFBD2924BE2100FD7969 /* Repository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Repository.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 			isa = PBXGroup;
 			children = (
 				E085FFBB2924B8F300FD7969 /* RepositoryListCell.swift */,
+				E085FFBD2924BE2100FD7969 /* Repository.swift */,
 				E085FFB92924B8A000FD7969 /* RepositoryListViewController.swift */,
 				E01651002923759200BFCC25 /* AppDelegate.swift */,
 				E01651022923759200BFCC25 /* SceneDelegate.swift */,
@@ -213,6 +216,7 @@
 				E01651012923759200BFCC25 /* AppDelegate.swift in Sources */,
 				E01651032923759200BFCC25 /* SceneDelegate.swift in Sources */,
 				E085FFBC2924B8F300FD7969 /* RepositoryListCell.swift in Sources */,
+				E085FFBE2924BE2100FD7969 /* Repository.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
