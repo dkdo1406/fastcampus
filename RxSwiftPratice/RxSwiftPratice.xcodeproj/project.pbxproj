@@ -24,6 +24,8 @@
 		E07F88482923CF4600D5B75A /* Subjects.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Subjects.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		E07F88492923D58B00D5B75A /* FilteringOperator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = FilteringOperator.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		E07F884A2923DEA800D5B75A /* TransformingOperators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TransformingOperators.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		E0A82F7629271E8D00C764A5 /* CombindingOperators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = CombindingOperators.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		E0A82F7729275CCB00C764A5 /* TimeBasedOperators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TimeBasedOperators.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		E0AFEAF22923892800520B15 /* RxSwiftPratice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RxSwiftPratice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0AFEAF52923892800520B15 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E0AFEAF72923892800520B15 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -72,6 +74,8 @@
 				E07F88482923CF4600D5B75A /* Subjects.playground */,
 				E07F88492923D58B00D5B75A /* FilteringOperator.playground */,
 				E07F884A2923DEA800D5B75A /* TransformingOperators.playground */,
+				E0A82F7629271E8D00C764A5 /* CombindingOperators.playground */,
+				E0A82F7729275CCB00C764A5 /* TimeBasedOperators.playground */,
 				E0AFEAF42923892800520B15 /* RxSwiftPratice */,
 				E0AFEAF32923892800520B15 /* Products */,
 				9D1193E9DFA978D09AFFC3FA /* Pods */,
